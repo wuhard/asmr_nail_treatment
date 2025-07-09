@@ -1,0 +1,105 @@
+{
+"frames": {
+	"bg-tool.png": {
+		"frame": {"x":691, "y":259, "w":265, "h":258},
+		"spriteSourceSize": {"x":0,"y":0,"w":265,"h":258},
+		"sourceSize": {"w":265,"h":258}
+	},
+	"correct.png": {
+		"frame": {"x":0, "y":1239, "w":53, "h":53},
+		"spriteSourceSize": {"x":0,"y":0,"w":53,"h":53},
+		"sourceSize": {"w":53,"h":53}
+	},
+	"draw4.png": {
+		"frame": {"x":1064, "y":259, "w":230, "h":295},
+		"spriteSourceSize": {"x":0,"y":0,"w":230,"h":295},
+		"sourceSize": {"w":230,"h":295}
+	},
+	"green-bar-bg.png": {
+		"frame": {"x":0, "y":751, "w":452, "h":74},
+		"spriteSourceSize": {"x":0,"y":0,"w":452,"h":74},
+		"sourceSize": {"w":452,"h":74}
+	},
+	"green-bar.png": {
+		"frame": {"x":0, "y":826, "w":423, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":423,"h":48},
+		"sourceSize": {"w":423,"h":48}
+	},
+	"heart-bar-pointer.png": {
+		"frame": {"x":89, "y":1134, "w":80, "h":61},
+		"spriteSourceSize": {"x":0,"y":0,"w":80,"h":61},
+		"sourceSize": {"w":80,"h":61}
+	},
+	"heart-bar.png": {
+		"frame": {"x":0, "y":681, "w":616, "h":69},
+		"spriteSourceSize": {"x":0,"y":0,"w":616,"h":69},
+		"sourceSize": {"w":616,"h":69}
+	},
+	"s1 p up frm blkg.png": {
+		"frame": {"x":0, "y":0, "w":690, "h":680},
+		"spriteSourceSize": {"x":0,"y":0,"w":690,"h":680},
+		"sourceSize": {"w":690,"h":680}
+	},
+	"time-icon.png": {
+		"frame": {"x":0, "y":1134, "w":88, "h":104},
+		"spriteSourceSize": {"x":0,"y":0,"w":88,"h":104},
+		"sourceSize": {"w":88,"h":104}
+	},
+	"tool1.png": {
+		"frame": {"x":957, "y":0, "w":265, "h":258},
+		"spriteSourceSize": {"x":0,"y":0,"w":265,"h":258},
+		"sourceSize": {"w":265,"h":258}
+	},
+	"tool2.png": {
+		"frame": {"x":691, "y":0, "w":265, "h":258},
+		"spriteSourceSize": {"x":0,"y":0,"w":265,"h":258},
+		"sourceSize": {"w":265,"h":258}
+	},
+	"tool3.png": {
+		"frame": {"x":532, "y":1010, "w":265, "h":258},
+		"spriteSourceSize": {"x":0,"y":0,"w":265,"h":258},
+		"sourceSize": {"w":265,"h":258}
+	},
+	"tool4.png": {
+		"frame": {"x":798, "y":1036, "w":265, "h":258},
+		"spriteSourceSize": {"x":0,"y":0,"w":265,"h":258},
+		"sourceSize": {"w":265,"h":258}
+	},
+	"tool5.png": {
+		"frame": {"x":798, "y":777, "w":265, "h":258},
+		"spriteSourceSize": {"x":0,"y":0,"w":265,"h":258},
+		"sourceSize": {"w":265,"h":258}
+	},
+	"tool6.png": {
+		"frame": {"x":266, "y":875, "w":265, "h":258},
+		"spriteSourceSize": {"x":0,"y":0,"w":265,"h":258},
+		"sourceSize": {"w":265,"h":258}
+	},
+	"tool7.png": {
+		"frame": {"x":0, "y":875, "w":265, "h":258},
+		"spriteSourceSize": {"x":0,"y":0,"w":265,"h":258},
+		"sourceSize": {"w":265,"h":258}
+	},
+	"tool8.png": {
+		"frame": {"x":532, "y":751, "w":265, "h":258},
+		"spriteSourceSize": {"x":0,"y":0,"w":265,"h":258},
+		"sourceSize": {"w":265,"h":258}
+	},
+	"tool9.png": {
+		"frame": {"x":798, "y":518, "w":265, "h":258},
+		"spriteSourceSize": {"x":0,"y":0,"w":265,"h":258},
+		"sourceSize": {"w":265,"h":258}
+	},
+	"wrong.png": {
+		"frame": {"x":54, "y":1239, "w":53, "h":53},
+		"spriteSourceSize": {"x":0,"y":0,"w":53,"h":53},
+		"sourceSize": {"w":53,"h":53}
+	}
+
+},
+"meta": {
+	"image": "stage1.png",
+	"size": {"w": 1295, "h": 1295},
+	"scale": "1"
+}
+}
